@@ -40,7 +40,7 @@ body {
     /* optional: adds some space between the buttons */
 }
 
-.btn .btn:onclick {
+.btn {
     background-color: #FFB6C1;
     color: white;
     padding: 15px 32px;
